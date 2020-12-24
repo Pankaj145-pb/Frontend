@@ -1,0 +1,103 @@
+body
+{
+    background-color:#333533;
+    
+
+}
+
+.button:hover{
+    
+    background-color: blueviolet;
+}
+
+.button{
+    background-color: #343a40;
+    color:wheat;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    width: 80px;
+    height: 50px;
+    margin-bottom: 4px;
+    border: 1px solid white;
+}
+
+h6{
+    color: #9381ff;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 3px;
+    
+}
+/* .hi{
+    position: absolute;
+    right: 0%;
+    top: 4%;
+    margin-right: 70%;
+} */
+
+/* .hello{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    margin-right: 70%;
+} */
+/* 
+div{
+    border: 10px green;
+    width: 300px;
+ */
+
+.A:hover{
+    color: blue;
+    
+}
+
+.hey{
+    border: gray;
+    width: 500px;
+    border-width: 10px;
+    margin-right: 40%;
+    padding-left: 10%;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    position: absolute;
+    right: 0%;
+    top:0%;
+}
+.level{
+    margin-left: 8%;
+    color: honeydew;
+
+}
+
+.vertical {
+    width: 500px;
+    height: 800px;
+    overflow-y: auto;
+    scrollbar-color:#343a40;
+    scrollbar-shadow-color: darkblue;
+    scrollbar-width: 5px;
+  }
+  
+
+.A{
+    color: honeydews;
+}
+
+h3{
+    color: blanchedalmond;
+    border: 2px solid;
+    width: 500px;
+    height: 40px;
+    background-color: #343a40;
+    margin-left: 150px;
+    text-align: left;
+    font-style: normal;
+    
+}
+.bot{
+    font-size: 15px;
+    height: 25px;
+    text-align: center;
+    background-color: white;
+}
